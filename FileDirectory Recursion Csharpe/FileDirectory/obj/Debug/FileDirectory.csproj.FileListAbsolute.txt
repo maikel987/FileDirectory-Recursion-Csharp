@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\FileDirectory\FileDirectory\bin\Debug\FileDirectory.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\FileDirectory\FileDirectory\obj\Debug\FileDirectory.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\FileDirectory\FileDirectory\bin\Debug\FileDirectory.exe
+c:\users\owner\documents\visual studio 2015\Projects\FileDirectory\FileDirectory\bin\Debug\FileDirectory.pdb
+c:\users\owner\documents\visual studio 2015\Projects\FileDirectory\FileDirectory\obj\Debug\FileDirectory.exe
+c:\users\owner\documents\visual studio 2015\Projects\FileDirectory\FileDirectory\obj\Debug\FileDirectory.pdb
